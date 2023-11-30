@@ -13,7 +13,7 @@ The dataset we consider is the S&P index closing prices over the last 10 years.
 ## model selection
 ARIMA, double exponential smoothing, decision trees, k-nearest neighbors, support vector machines, and random forests. 
 
-## metrics
+## evaluation metrics
 root mean square error (RMSE), Max Absolute Error Percentage (Max AEP), and Mean Absolute Error Percentage (Mean AEP) 
 
 ## model evaluation
