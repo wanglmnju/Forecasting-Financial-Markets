@@ -1,7 +1,7 @@
 # Forecasting Financial Markets: Predictive Modeling Using S&P 500 Data  
 The Erdős Institute Data Science Bootcamp Fall 2023  
 By Guess-timate Gang
-  (Hitesh Gakhar, Michail Paparizos, Kriti Sehgal, Limin Wang)  
+  (Limin Wang, Hitesh Gakhar, Michail Paparizos, Kriti Sehgal)  
 Group Mentor: Soheyl Anbouhi
 
 ## Project Description
